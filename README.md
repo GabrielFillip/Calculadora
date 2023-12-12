@@ -9,3 +9,6 @@ A calculadora é capaz de executar qualquer operação básica existente na maio
 ## Layout 
 
 ![print calculadora](https://github.com/GabrielFillip/calculadora/assets/142547884/278065c9-61be-44b1-b9f2-70e40b674f19)
+
+## Tecnologias utilizadas: 
+-Python
